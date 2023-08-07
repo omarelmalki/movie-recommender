@@ -1,6 +1,4 @@
-## CS-460 Project
-
-### Movie recommendation system
+## Movie recommendation system
 
 Given a dataset that includes: \
 • A set of movies (e.g., movies, TV series) and their genres \
@@ -11,3 +9,5 @@ This  project performs large-scale data processing over the given dataset using 
 • An average rating
 
 These are meant to be used by an application for movie recommendations, in a distribiuted data setting.
+
+Omar El Malki, Switzerland, 2023
